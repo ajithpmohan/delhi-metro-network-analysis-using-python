@@ -1,9 +1,9 @@
-## [Delhi Metro Network Analysis using Python](https://statso.io/metro-network-analysis-case-study/)
+## Analyzing Delhi Metro Network with Python
 
-### Tech Stack
+### Technology Stack
 
-* Python
-* Pandas
-* Matplotlib
-* Seaborn
-* Folim
+* **Python**: Utilized as the primary programming language.
+* **Pandas**: Employed for efficient data manipulation and analysis.
+* **Matplotlib**: Chosen for creating insightful data visualizations.
+* **Seaborn**: Used alongside Matplotlib for enhanced data visualization capabilities.
+* **Folim**: Used for interactive geographic data visualization on maps.
