@@ -1,0 +1,12 @@
+{
+  "[python]": {
+    "editor.defaultFormatter": "ms-python.black-formatter",
+    "editor.formatOnSave": true,
+    "editor.codeActionsOnSave": {
+      "source.organizeImports.isort": "explicit"
+    }
+  },
+  "python.defaultInterpreterPath": "${workspaceFolder}/env/bin/python",
+  "git.ignoreLimitWarning": true,
+  "workbench.colorTheme": "Dracula Soft"
+}
